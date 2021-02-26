@@ -17,7 +17,7 @@ NOTE: The script save the the raw .xls file in a temporal folder called *raw_fil
 NOTE2: On monthly data option the default date format keeps day = 15 for each month as default.  
 
 # Visualization
-The linear visualization of the Daily dataset can be consulted in the index.html page.  
+The linear visualization of the Daily dataset can be consulted on the following URL: https://cjriverflow.github.io/data_wrangling_natural_gas/
 
 ## Data package
 The daily data package is available from this url:  
